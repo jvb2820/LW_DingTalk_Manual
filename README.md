@@ -34,7 +34,7 @@ Your Name
 🔹 **linkedin**: https://www.linkedin.com/in/jeuz-vinci-bas-b51639341/
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is for internal use and educational purposes only.
 
 ## 🚀 Getting Started
 1. Clone the repository
