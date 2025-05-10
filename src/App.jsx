@@ -22,6 +22,24 @@ function App() {
       title: "Changing Nickname for Group Chat",
       url: "https://www.figma.com/proto/06H670YHUiPOAZ1sMrShgd/DingTalk---Group-Chat-Change-Nickname-Instruction?node-id=1-2&p=f&t=ng6jkxuqCEc1qyqD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
       icon: "👥"
+    },
+    {
+      id: 4,
+      title: "How to Change the Language to English",
+      url: "https://www.figma.com/proto/or4TbDlenffn9fRXGcy67r/How-To-Change-language-in-DingTalk?node-id=1-2&t=jgPjt4SuBi6MyQj4-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      icon: "🌐"
+    },
+    {
+      id: 5,
+      title: "How To Create A Local User Using the Assigned UserID",
+      url: "https://www.figma.com/proto/create-local-user-instructions",
+      icon: "💻"
+    },
+    {
+      id: 6,
+      title: "How To Add Another User Using A QR Code",
+      url: "https://www.figma.com/proto/add-user-qr-code-instructions",
+      icon: "📱"
     }
   ];
 
