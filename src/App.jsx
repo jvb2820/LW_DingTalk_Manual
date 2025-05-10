@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Footer from './Footer';
 
 function App() {
   // Links for the buttons
@@ -55,9 +56,10 @@ function App() {
           <ul className="guide-steps">
             <li><span className="step-number">1</span> Click on any link above to open the documentation</li>
             <li><span className="step-number">2</span> Use <span className="key">&lt;</span> and <span className="key">&gt;</span> arrow keys to navigate between pages</li>
-     
           </ul>
         </section>
+        
+        <Footer />
       </div>
     </div>
   );

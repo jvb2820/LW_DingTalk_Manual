@@ -246,3 +246,140 @@ body {
     height: 22px;
   }
 }
+
+
+.app-footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  width: 100%;
+  text-align: center;
+  background-color: #f5f7fa;
+  border-top: 1px solid #e8e8e8;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  position: relative;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  align-items: center;
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+.powered-by-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 4px;
+}
+
+.footer-logo-full {
+  height: 75px;
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+
+.logo-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.logo-container:hover .footer-logo-full {
+  transform: scale(1.05);
+}
+
+.developer {
+  font-weight: 600;
+  color: #1890ff;
+}
+
+.disclaimer {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #8c8c8c;
+  margin: 4px 0;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #8c8c8c;
+  margin-top: 2px;
+}
+
+/* Popup styles */
+.popup {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+  width: 180px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  animation: fadeIn 0.3s ease-out;
+}
+
+.popup-arrow {
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%) rotate(45deg);
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(10px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+/* Update media queries for responsiveness */
+@media (max-width: 600px) {
+  .app-footer {
+    margin-top: 2.5rem;
+    padding: 1.2rem 0;
+  }
+  
+  .disclaimer, .copyright {
+    font-size: 0.75rem;
+  }
+  
+  .footer-logo-full {
+    height: 32px;
+  }
+  
+  .popup {
+    width: 160px;
+    padding: 10px;
+    bottom: 12px;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 400px) {
+  .app-footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+  }
+  
+  .disclaimer {
+    font-size: 0.7rem;
+  }
+  
+  .copyright {
+    font-size: 0.65rem;
+  }
+}
