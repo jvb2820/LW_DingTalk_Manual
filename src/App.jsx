@@ -38,7 +38,7 @@ function App() {
     {
       id: 6,
       title: "How To Add Another User Using A QR Code",
-      url: "https://www.figma.com/proto/add-user-qr-code-instructions",
+      url: "https://www.figma.com/proto/mlgZG9u1uToNKQ323C4yWH/How-To-Add-Another-User-Using-A-QR-Code?node-id=0-1&t=0E0fIR2kHpp6p1HK-1",
       icon: "⛆",
     },
   ];
