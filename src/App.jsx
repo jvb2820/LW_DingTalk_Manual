@@ -15,7 +15,7 @@ function App() {
     {
       id: 2,
       title: "FS Manual",
-      path: "/instructions/DingTalk/registration",
+      path: "/instructions/FS",
       icon: "✏️",
     },
   ];
