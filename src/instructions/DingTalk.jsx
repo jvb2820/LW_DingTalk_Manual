@@ -31,15 +31,15 @@ const DingTalk = () => {
     },
     {
       id: 5,
-      title: "1.5 How To Create A Local User Using the Assigned UserID",
-      url: "https://www.figma.com/proto/Inkont0IBOvCexoXE1H9Yq/How-To-Create-A-Local-User-Using-the-Assigned-UserID?node-id=0-1&t=Qarfjq2ofyFxuFTD-1",
-      icon: "💻",
-    },
-    {
-      id: 6,
       title: "1.6 How To Add Another User Using A QR Code",
       url: "https://www.figma.com/proto/mlgZG9u1uToNKQ323C4yWH/How-To-Add-Another-User-Using-A-QR-Code?node-id=0-1&t=0E0fIR2kHpp6p1HK-1",
       icon: "⛆",
+    },
+    {
+      id: 6,
+      title: "2.1 How to Register (Android)",
+      url: "https://www.figma.com/proto/MfahTocxU5rDSixRY99WVH/DingTalk-Register-and-Login-Guide-for-Android?node-id=1-3&t=ItHpr4UpUvgdLX9p-1",
+      icon: "✏️",
     },
   ];
   return (
