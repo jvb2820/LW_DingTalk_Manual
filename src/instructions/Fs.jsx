@@ -28,7 +28,7 @@ const FS = () => {
               <span className="logo-icon">📱</span>
             </div>
 
-            <h1>FS Instruction Manual</h1>
+            <h1>E-Learning Platform</h1>
             <p className="subtitle">
               Your complete guide to using FS effectively
             </p>

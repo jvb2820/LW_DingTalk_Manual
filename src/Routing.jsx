@@ -11,7 +11,7 @@ function Routing() {
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/instructions/DingTalk" element={<DingTalk />} />
-        <Route path="/instructions/FS" element={<FS />} />
+        <Route path="/instructions/E-Learning" element={<FS />} />
       </Routes>
     </div>
   );

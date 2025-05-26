@@ -15,7 +15,7 @@ function App() {
     {
       id: 2,
       title: "2. E-Learning Platform",
-      path: "/instructions/FS",
+      path: "/instructions/E-Learning",
       icon: "✏️",
     },
   ];
