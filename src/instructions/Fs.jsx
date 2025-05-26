@@ -7,13 +7,13 @@ const FS = () => {
   const links = [
     {
       id: 1,
-      title: "1.1 How to Change Your Name & Update Profile Details",
-      url: "https://testlink.org/",
+      title: "2.1 How to Change Your Name & Update Profile Details",
+      url: "https://www.figma.com/proto/4aYOFuyj4XuGgeGTl7A39i/Untitled?node-id=1-2&t=1K30A8gX1WzvkiES-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
       icon: "✏️",
     },
     {
       id: 2,
-      title: "1.2 Test",
+      title: "2.2 Test",
       url: "https://testlink.org/",
       icon: "📚",
     },
