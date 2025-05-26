@@ -7,14 +7,14 @@ const FS = () => {
   const links = [
     {
       id: 1,
-      title: "How to Change Your Name & Update Profile Details",
-      url: "https://www.figma.com/proto/1e5D5kiiP7MSt0G3rMt7LC/DingTalk-Registration-Instructions?node-id=1-2&t=Ga6LZjLBU7WJH5eK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      title: "1.1 How to Change Your Name & Update Profile Details",
+      url: "https://testlink.org/",
       icon: "✏️",
     },
     {
       id: 2,
-      title: "Test",
-      url: "https://www.figma.com/proto/U0owGZuI0fQQs5mD06dhoi/DingTalk---System-Wide-Change-Nickname-Instructions?node-id=1-8&t=7aIiTxcY2k0ZnLVZ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      title: "1.2 Test",
+      url: "https://testlink.org/",
       icon: "📚",
     },
   ];

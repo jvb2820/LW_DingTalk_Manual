@@ -8,13 +8,13 @@ function App() {
   const links = [
     {
       id: 1,
-      title: "Dintalk Manual",
+      title: "1. Dingtalk Manual",
       path: "/instructions/DingTalk",
       icon: "✏️",
     },
     {
       id: 2,
-      title: "FS Manual",
+      title: "2. E-Learning Platform",
       path: "/instructions/FS",
       icon: "✏️",
     },
