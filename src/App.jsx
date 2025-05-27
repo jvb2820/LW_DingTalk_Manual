@@ -20,7 +20,7 @@ function App() {
     },
 {
       id: 3,
-      title: "2. Basic Guides",
+      title: "3. Basic Guides",
       path: "/instructions/BasicGuides",
       icon: "✏️",
     },
