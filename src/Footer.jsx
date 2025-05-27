@@ -35,7 +35,7 @@ const Footer = () => {
             {showPopup && (
               <div className="popup absolute bottom-14 left-1/2 transform -translate-x-1/2 bg-white p-3 rounded-lg shadow-lg text-center w-48 border border-gray-200">
                 <p className="text-sm m-0 font-medium text-gray-700">
-                  Powered by vinci@lifewood
+                  Powered by vinci.lifewood@outlook.com & robert.lifewood@outlook.com
                 </p>
                 <div className="popup-arrow absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-1/2 w-3 h-3 bg-white border-r border-b border-gray-200 rotate-45"></div>
               </div>
