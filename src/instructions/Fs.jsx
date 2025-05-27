@@ -12,14 +12,8 @@ const FS = () => {
       icon: "✏️",
     },
     {
-      id: 2,
-      title: "2.2 Test",
-      url: "https://testlink.org/",
-      icon: "📚",
-    },
-    {
       id: 3,
-      title: "1.5 How To Create A Local User Using the Assigned UserID",
+      title: "2.2 How To Create A Local User Using the Assigned UserID",
       url: "https://www.figma.com/proto/Inkont0IBOvCexoXE1H9Yq/How-To-Create-A-Local-User-Using-the-Assigned-UserID?node-id=0-1&t=Qarfjq2ofyFxuFTD-1",
       icon: "💻",
     },
