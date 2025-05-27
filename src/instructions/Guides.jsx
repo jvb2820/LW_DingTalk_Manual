@@ -8,7 +8,7 @@ const Guides = () => {
   const links = [
     {
       id: 1,
-      title: "3.1 How To Create A Local User Using the Assigned UserID",
+      title: "3.1 Getting Ready for Genea",
       url: "https://www.figma.com/proto/Inkont0IBOvCexoXE1H9Yq/How-To-Create-A-Local-User-Using-the-Assigned-UserID?node-id=0-1&t=Qarfjq2ofyFxuFTD-1",
       icon: "💻",
     },
