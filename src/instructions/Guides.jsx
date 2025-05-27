@@ -1,17 +1,17 @@
+// Guides.jsx
 import React from "react";
 import Footer from "../Footer";
 import { Link } from "react-router-dom";
 import "./DingTalk.css";
 
-const FS = () => {
+const Guides = () => {
   const links = [
     {
       id: 1,
-      title: "2.1 How to Change Your Name & Update Profile Details",
-      url: "https://www.figma.com/proto/4aYOFuyj4XuGgeGTl7A39i/Untitled?node-id=1-2&t=1K30A8gX1WzvkiES-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
-      icon: "✏️",
+      title: "3.1 How To Create A Local User Using the Assigned UserID",
+      url: "https://www.figma.com/proto/Inkont0IBOvCexoXE1H9Yq/How-To-Create-A-Local-User-Using-the-Assigned-UserID?node-id=0-1&t=Qarfjq2ofyFxuFTD-1",
+      icon: "💻",
     },
-
   ];
 
   return (
@@ -67,4 +67,5 @@ const FS = () => {
   );
 };
 
-export default FS;
+export default Guides;
+2

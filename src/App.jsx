@@ -18,6 +18,12 @@ function App() {
       path: "/instructions/E-Learning",
       icon: "✏️",
     },
+{
+      id: 3,
+      title: "2. Basic Guides",
+      path: "/instructions/BasicGuides",
+      icon: "✏️",
+    },
   ];
 
   return (
