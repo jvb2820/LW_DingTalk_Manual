@@ -41,6 +41,12 @@ const DingTalk = () => {
       url: "https://www.figma.com/proto/MfahTocxU5rDSixRY99WVH/DingTalk-Register-and-Login-Guide-for-Android?node-id=1-3&t=ItHpr4UpUvgdLX9p-1",
       icon: "✏️",
     },
+        {
+      id: 7,
+      title: "1.7 Adding a friend to training groupchat (PC)",
+      url: "https://www.figma.com/proto/6VWOSwP8wKYMxhVJSF6kjq/How-to-add-a-member--PC-?node-id=1-9&t=YQgNEo4wAJgr4JTv-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+      icon: "✏️",
+    },
   ];
   return (
     <div>
