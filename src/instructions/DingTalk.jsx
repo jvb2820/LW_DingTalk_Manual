@@ -43,7 +43,7 @@ const DingTalk = () => {
     },
         {
       id: 7,
-      title: "1.7 Adding a friend to training groupchat (PC)",
+      title: "1.8 Adding a friend to training groupchat (PC)",
       url: "https://www.figma.com/proto/6VWOSwP8wKYMxhVJSF6kjq/How-to-add-a-member--PC-?node-id=1-9&t=YQgNEo4wAJgr4JTv-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
       icon: "✏️",
     },
